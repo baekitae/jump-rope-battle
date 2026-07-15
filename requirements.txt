@@ -1,9 +1,13 @@
 streamlit
 gspread
 oauth2client
+google-auth
+google-api-python-client
 pandas
 plotly
 opencv-python-headless
-mediapipe
-streamlit-webrtc
+mediapipe==0.10.9
+numpy
 av
+streamlit-webrtc
+google-generativeai
